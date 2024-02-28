@@ -1,3 +1,8 @@
+![image](https://github.com/Bharat295/MoneyMinder/assets/85282925/50a7d1bd-5cd1-434c-9845-e6261c1e7f7f)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
